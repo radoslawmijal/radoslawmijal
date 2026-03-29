@@ -18,9 +18,9 @@ I am a student at **Wrocław University of Science and Technology**, specializin
 
 ### Current focus
 
-Developing control systems, high-performance programming and machine vision solutions.
-Deeply interested in mobile robotics and autonomous navigation (SLAM).
-Part-time Mathematics and Physics tutor, dedicated to helping students prepare for Matura exams and regular school tests.
+*  **Engineering:** Developing control systems, high-performance programming, and machine vision solutions.
+*  **Robotics:** Deeply interested in mobile robotics and autonomous navigation (SLAM).
+*  **Education:** Part-time Mathematics and Physics tutor, dedicated to helping students prepare for Matura exams and regular school tests.
 
 ---
 
