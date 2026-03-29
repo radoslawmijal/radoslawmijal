@@ -1,12 +1,12 @@
 # Hi there, I'm Radosław Mijał! 👋
 
-### 🤖 Robotics and Control Engineering Student | **@KN-Alive** Member
+### Robotics and Control Engineering Student | **@KN-Alive** Member
 
-I am a student at **Wrocław University of Science and Technology**, specializing in **Robotics** (expected graduation: 2027). I am passionate about autonomous systems and programming, striving to bridge the gap between academic theory and practical engineering.
+I am a student at **Wrocław University of Science and Technology**, specializing in **Robotics**. I am passionate about autonomous systems and programming, striving to bridge the gap between academic theory and practical engineering.
 
 ---
 
-### 🛠 My Toolbox
+### My Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
@@ -16,15 +16,14 @@ I am a student at **Wrocław University of Science and Technology**, specializin
 
 ---
 
-### 📈 GitHub Stats
+### Current focus
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=radoslawmijal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radoslawmijal&layout=compact&theme=tokyonight"/>
-</p>
+Developing control systems, high-performance programming and machine vision solutions.
+Deeply interested in mobile robotics and autonomous navigation (SLAM).
+Part-time Mathematics and Physics tutor, dedicated to helping students prepare for Matura exams and regular school tests.
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radekmijal@gmail.com)
