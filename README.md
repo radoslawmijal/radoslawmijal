@@ -27,3 +27,4 @@ I am a student at **Wrocław University of Science and Technology**, specializin
 ### Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radekmijal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rados%C5%82aw-mija%C5%82-714b923b0/)
