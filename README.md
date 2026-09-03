@@ -11,7 +11,7 @@ I am a student at **Wrocław University of Science and Technology**, specializin
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED192D.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white) |
-| **Robotics** | ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6600.svg?style=for-the-badge&logo=gazebo&logoColor=white) ![PLC](https://img.shields.io/badge/PLC_Omron-%23005CAB.svg?style=for-the-badge&logo=omron&logoColor=white) |
+| **Robotics** | ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6600.svg?style=for-the-badge&logo=gazebo&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-%23005CAB.svg?style=for-the-badge&logo=omron&logoColor=white) |
 | **Electronics & Tools** | ![STM32](https://img.shields.io/badge/stm32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Altium](https://img.shields.io/badge/Altium_Designer-%23A52A2A.svg?style=for-the-badge&logo=altium&logoColor=white) |
 
 ---
@@ -19,7 +19,7 @@ I am a student at **Wrocław University of Science and Technology**, specializin
 ### Current focus
 
 *  **Engineering:** Developing control systems, high-performance programming, and machine vision solutions.
-*  **Robotics:** Deeply interested in mobile robotics and autonomous navigation (SLAM).
+*  **Robotics:** Deeply interested in embedded systems, mobile robotics and autonomous navigation (SLAM).
 *  **Education:** Part-time Mathematics and Physics tutor, dedicated to helping students prepare for Matura exams and regular school tests.
 
 ---
